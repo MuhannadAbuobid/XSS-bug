@@ -1,2 +1,2 @@
 ## XSS check
-The code is under testing for bugs!
+The `code` is under testing for bugs!

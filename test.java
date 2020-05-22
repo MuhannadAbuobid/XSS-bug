@@ -86,8 +86,6 @@ public class InsecureHttpServlet extends HttpServlet
 }
 
 
-
-
 https://www.linkedin.com/signup
 
 <form action="/signup" method="POST">
